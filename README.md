@@ -1,10 +1,6 @@
 # FortWorld (early Verse source)
 
-Early Verse source of FortWorld, a territory strategy game for Fortnite (UEFN).
-
-This is an older development revision, not the current live game. It holds Verse code only.
-Textures, audio, VFX, models and other assets are not included, so it does not build on its own.
-It also needs the devices and props placed in the UEFN project.
+Verse source of FortWorld, a territory strategy game for Fortnite (UEFN).
 
 ## Credits and license
 
